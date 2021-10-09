@@ -1,0 +1,29 @@
+
+.background{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-size: 100% 100%;
+    z-index: -1;
+}
+.add_btn1{
+    width: 100%;
+    position: fixed;
+    bottom: 900rpx;
+}
+.add_btn2{
+    width: 100%;
+    position: fixed;
+    bottom: 600rpx;
+}
+.add_btn3{
+    width: 100%;
+    position: fixed;
+    bottom: 300rpx;
+}
+.btn{
+    margin-top: 30rpx;
+    width: 450rpx;
+    background: #db0f0f ;
+    color: #fff;
+}

@@ -1,0 +1,12 @@
+<view >
+<image class="background" src="https://z3.ax1x.com/2021/10/08/5C4QET.png" mode="aspectFill"></image>
+</view>
+<view class="add_btn1" style="width: 750rpx; height: 132rpx; display: block; box-sizing: border-box; left: 0rpx; top: 433rpx">
+<button class="btn" style="width: 335rpx; height: 78rpx; display: block; box-sizing: border-box; left: -11rpx; top: -30rpx; position: relative">多人游戏</button>
+</view>
+<view class="add_btn2">
+<button class="btn" bindtap="tap" style="position: relative; left: -13rpx; top: -123rpx; width: 323rpx; height: 79rpx; display: block; box-sizing: border-box">单人博饼</button>
+</view>
+<view class="add_btn3">
+<button class="btn"  style="position: relative; left: -15rpx; top: -170rpx; width: 323rpx; height: 85rpx; display: block; box-sizing: border-box">游戏设置</button>
+</view>

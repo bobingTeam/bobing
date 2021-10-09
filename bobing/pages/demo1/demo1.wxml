@@ -1,0 +1,9 @@
+
+<view >
+<image class="background" src="https://z3.ax1x.com/2021/10/08/5Ch6BV.png" mode="aspectFill"></image>
+</view>
+<view class="add_btn">
+<button class="btn" bindtap="tap">开始游戏</button>
+</view>
+
+

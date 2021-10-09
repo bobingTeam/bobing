@@ -1,0 +1,36 @@
+<view >
+<image class="background" src="https://z3.ax1x.com/2021/10/08/5C4UDx.png" mode="aspectFill" style="position: fixed; left: 0rpx; top: 32rpx"></image>
+</view>
+<view class="add_btn">
+<button class="circle"  bindtap="handletap" style="width: 211rpx; height: 218rpx; display: block; box-sizing: border-box; left: 2rpx; top: -37rpx; position: relative">
+<text >
+
+博一博
+</text>
+</button>
+</view> 
+<button  class="btn1" bindtap="tap" style="position: relative; left: 291rpx; top: 29rpx; width: 169rpx; height: 76rpx; display: block; box-sizing: border-box">  
+  规则
+</button>
+
+<view class="add_btn" style="position: relative; left: 32rpx; top: 29rpx; width: 687rpx; height: 787rpx; display: flex; box-sizing: content-box">
+<image  class="new" src="https://z3.ax1x.com/2021/10/08/5C5VIO.png" mode="aspectFit" style="width: 708rpx; height: 801rpx; display: block; box-sizing: border-box; position: relative; left: 0rpx; top: 113rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="../../image/{{num1}}.gif" style="width: 142rpx; height: 130rpx; display: inline-block; box-sizing: border-box; position: relative; left: 326rpx; top: -374rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="../../image/{{num2}}.gif" style="width: 142rpx; height: 130rpx; display: inline-block; box-sizing: border-box; position: relative; left: 474rpx; top: -607rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="../../image/{{num3}}.gif" style="width: 142rpx; height: 130rpx; display: inline-block; box-sizing: border-box; position: relative; left: 316rpx; top: -747rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="../../image/{{num4}}.gif" style="width: 142rpx; height: 130rpx; display: inline-block; box-sizing: border-box; position: relative; left: 142rpx; top: -447rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="../../image/{{num5}}.gif" style="width: 142rpx; height: 130rpx; display: inline-block; box-sizing: border-box; position: relative; left: 311rpx; top: -556rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="../../image/{{num6}}.gif" style="width: 142rpx; height: 130rpx; display: inline-block; box-sizing: border-box; position: relative; left: 148rpx; top: -631rpx"></image>
+</view>
